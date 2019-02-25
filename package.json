@@ -27,6 +27,7 @@
     "yargs": "^4.7.1"
   },
   "dependencies": {
+    "next-capitalize": "github:afeiship/next-capitalize",
     "next-js-core2": "github:afeiship/next-js-core2",
     "next-wx-promisify": "github:afeiship/next-wx-promisify"
   }
