@@ -25,4 +25,4 @@ NxWeappNavigation.color({ frontColor:'test' })
 ```
 
 ## resources:
-- https://github.com/afeiship
+- https://developers.weixin.qq.com/miniprogram/dev/api/wx.setNavigationBarColor.html
