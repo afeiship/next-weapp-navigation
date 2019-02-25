@@ -21,7 +21,7 @@ import NxWeappNavigation from 'next-weapp-navigation';
 NxWeappNavigation.loading(true)
 NxWeappNavigation.loading(false)
 NxWeappNavigation.title({ title:'test' })
-NxWeappNavigation.frontColor({ color:'test' })
+NxWeappNavigation.color({ frontColor:'test' })
 ```
 
 ## resources:
